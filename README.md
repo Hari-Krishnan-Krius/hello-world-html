@@ -4,3 +4,6 @@ cheetak
 apple
 banana
 mango
+apple
+banana
+mango
