@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 car
 bike
 plane
-=======
-apple
-banana
-mango
->>>>>>> mergebranch
+1
+2
